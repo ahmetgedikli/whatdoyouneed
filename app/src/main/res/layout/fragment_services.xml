@@ -8,7 +8,7 @@
 
     <TextView
         android:id="@+id/text_services"
-        android:text="buraya recycler viewla ilanlar yerleştirilcek"
+        android:text="kaşar recycler viewla ilanlar yerleştirilcek"
         android:textColor="@color/purple_500"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
