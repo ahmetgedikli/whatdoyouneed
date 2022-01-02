@@ -9,7 +9,7 @@
     <TextView
         android:id="@+id/text_services"
         android:text="kaşar recycler viewla ilanlar yerleştirilcek"
-        android:textColor="@color/purple_500"
+        android:textColor="@color/black"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginStart="8dp"
