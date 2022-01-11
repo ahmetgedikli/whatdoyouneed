@@ -3,8 +3,11 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/ABRA/Desktop/whatdoyouneed/app/src/main/res/layout/fragment_services.xml" value="0.1793478260869565" />
-        <entry key="..\:/Users/ABRA/Desktop/whatdoyouneed/app/src/main/res/layout/fragment_settings.xml" value="0.1793478260869565" />
+        <entry key="..\:/Users/Gokhan/AndroidStudioProjects/whatdoyouneed/app/src/main/res/layout/activity_main.xml" value="0.19895833333333332" />
+        <entry key="..\:/Users/Gokhan/AndroidStudioProjects/whatdoyouneed/app/src/main/res/layout/fragment_home.xml" value="0.16210739614994935" />
+        <entry key="..\:/Users/Gokhan/AndroidStudioProjects/whatdoyouneed/app/src/main/res/layout/fragment_services.xml" value="0.2234375" />
+        <entry key="..\:/Users/Gokhan/AndroidStudioProjects/whatdoyouneed/app/src/main/res/layout/fragment_settings.xml" value="0.2234375" />
+        <entry key="..\:/Users/Gokhan/AndroidStudioProjects/whatdoyouneed/app/src/main/res/layout/service_view.xml" value="0.33" />
         <entry key="..\:/Users/LENOVO/AndroidStudioProjects/WhatDoYouNeed/app/src/main/res/layout/activity_main.xml" value="0.22" />
         <entry key="..\:/Users/LENOVO/AndroidStudioProjects/WhatDoYouNeed/app/src/main/res/layout/fragment_dashboard.xml" value="0.25" />
         <entry key="..\:/Users/LENOVO/AndroidStudioProjects/WhatDoYouNeed/app/src/main/res/layout/fragment_home.xml" value="0.22" />
